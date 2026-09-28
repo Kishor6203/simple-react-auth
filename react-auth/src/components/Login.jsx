@@ -1,5 +1,3 @@
-// src/components/Login.jsx
-
 import { useEffect, useState } from "react";
 import {
   Link,
