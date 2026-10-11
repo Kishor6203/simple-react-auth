@@ -1,4 +1,3 @@
-// src/services/authService.js
 
 const USERS_KEY = "frontend_auth_users";
 const SESSION_KEY = "frontend_auth_session";
