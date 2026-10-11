@@ -1,7 +1,6 @@
 // src/services/api.js
 
 /**
- * Frontend-only application.
  *
  * There is currently no backend API.
  * This file is intentionally kept as an extension point
