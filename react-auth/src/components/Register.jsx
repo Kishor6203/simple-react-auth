@@ -1,4 +1,3 @@
-// src/components/Register.jsx
 
 import { useEffect, useState } from "react";
 import {
