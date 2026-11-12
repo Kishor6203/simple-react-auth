@@ -4,7 +4,6 @@
  *
  * There is currently no backend API.
  * This file is intentionally kept as an extension point
- * for future Java/Spring Boot integration.
  */
 
 const api = {
